@@ -1,5 +1,0 @@
-[
-  {"nama" : "Celsius", "penemu" : "Anders Celcius", "imageId" : "penemuCelcius"},
-  {"nama" : "Fahrenheit", "penemu" : "Daniel Gabriel Fahrenheit", "imageId" : "penemuFahrenheit"},
-  {"nama" : "Kelvin", "penemu" : "Wiliam Thomson Kelvin", "imageId" : "kelvin"}
-]
